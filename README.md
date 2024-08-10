@@ -25,7 +25,7 @@ The project uses the **Breast Cancer Wisconsin (Diagnostic)** dataset, available
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/basharat0592/breastcancerdetection.git
    cd your-repo-name
    ```
 
